@@ -1,68 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Здраво",
+      "description": "👋 Ја сам Мицхел Газаваи. Присутан сам у обавештајној заједници више од 20 година. Помажем у интеграцији скупова података за оружане снаге САД у циљу промовисања сарадње и приступа подацима. Успут сам на крају постао СЕЦДЕВОП по нужди. Тренутно радим на умотавању наших услуга преноса података, валидације података и трансформације података у апликације оријентисане на клијенте које ће им омогућити да комуницирају и постану део тог процеса.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "о мени",
+        "projects": "Пројекти",
+        "skills": "вештине",
+        "experience": "Искуство"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Хорнед Беастс",
+        "startDate": "2022",
+        "description": "Уредан мали сајт који ме је научио много о Реацт-у и како да користим и интегришем модуле једног опсега. Такође ми је дало више искуства у условном рендеровању и коришћењу реквизита.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Horned Beast/HornedBeast.JPG",
+          "images/portfolio/Horned Beast/HornedBeast2.JPG"
         ],
         "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -82,7 +38,7 @@
     "experience": [
       {
         "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "title": "Фронт-Енд програмер",
         "years": "10.2019 - obecnie",
         "mainTech": [
           "Angular 8/9/10"
@@ -98,8 +54,8 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
+        "company": "OPS CONSULTING",
+        "title": "инжењер",
         "years": "01.2018 - 09.2019",
         "mainTech": [
           "Angular 7/8"
