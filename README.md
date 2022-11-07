@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-Make it your own! 
+This is the portfolio for Michael Gazaway...no rights are reserved.
